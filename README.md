@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 - 🌱 I’m currently learning **Linux,Python etc**
-<img aligh="right" alt="Hacking" width="400" src="https://www.kali.org/blog/kali-linux-2020-4-release/images/boot-kali.gif">
+<img aligh="right" alt="Hacking" width="400" src="https://www.kali.org/blog/kali-linux-2019-4-release/images/kali-preview-boot.gif">
 - 👨‍💻 All of my projects are available at [https://GitHub.com/Jimmy7Xd](https://GitHub.com/Jimmy7Xd)
 
 - 📫 How to reach me **t.me/jimftvamp**
