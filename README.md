@@ -1,7 +1,7 @@
  [![Anonymousgif](https://64.media.tumblr.com/11f521866b3ec17c9ba57c998962d6b7/tumblr_olysppgDT71w0ii2ho1_500.gif)
 ## Developer & Cyber Expert!
 <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"/>
-Welcome to my GitHub profile! I'm Jimftvamp,A 18years old passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity
+Welcome to my GitHub profile! I'm Jimftvamp, An 18years old passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity
 
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="150" />
