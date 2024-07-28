@@ -34,7 +34,7 @@ ___
 ___  
 ## Connect with me:
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Jimmy7Xd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy7Xd&langs_count=8&theme=blue-green">
+<img src = "https://github-readme-stats.vercel.app/api?username=Jimmy-EXE&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy-EXE&langs_count=8&theme=blue-green">
 
 ### 🐍 Watch Snake eating my contribution :
 ![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
