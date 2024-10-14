@@ -1,6 +1,5 @@
  [![Anonymousgif](https://64.media.tumblr.com/11f521866b3ec17c9ba57c998962d6b7/tumblr_olysppgDT71w0ii2ho1_500.gif)
 ## Developer & Cyber Expert!
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"/>
 Welcome to my GitHub profile! I'm Jimmy, A 18 years old passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity
 
 <p align="center">
